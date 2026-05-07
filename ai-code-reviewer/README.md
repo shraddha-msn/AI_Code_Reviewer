@@ -107,3 +107,4 @@ Vite serves the app at http://localhost:5173 and proxies `/api/*` to the FastAPI
 - File-tree picker to review specific files
 - Public share links per review
 - GitHub OAuth for private repos
+- React Frontend
